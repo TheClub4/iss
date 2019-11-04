@@ -1,3 +1,5 @@
+#Works best on trinket.io
+
 import json
 import turtle
 import urllib.request
